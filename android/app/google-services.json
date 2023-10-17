@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "782955979534",
+    "project_id": "fresh-farm-852c8",
+    "storage_bucket": "fresh-farm-852c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782955979534:android:91abadb7a44e3a43fd2d5f",
+        "android_client_info": {
+          "package_name": "com.example.fresh_farm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782955979534-jp3qqhovs7qligj8ojs1jn7e5anvmm50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVltYPG0hdj9ptXc0rwvjw14GoB7Oeq6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782955979534-jp3qqhovs7qligj8ojs1jn7e5anvmm50.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "782955979534-3v507oa9d81hunlmvn6eui58h48g6md6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.freshfarm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782955979534:android:688638ac43acb251fd2d5f",
+        "android_client_info": {
+          "package_name": "com.example.freshfarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782955979534-jp3qqhovs7qligj8ojs1jn7e5anvmm50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVltYPG0hdj9ptXc0rwvjw14GoB7Oeq6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782955979534-jp3qqhovs7qligj8ojs1jn7e5anvmm50.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "782955979534-3v507oa9d81hunlmvn6eui58h48g6md6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.freshfarm"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
