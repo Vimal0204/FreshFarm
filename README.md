@@ -1,16 +1,2 @@
-# fresh_farm
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Description- FreshFarm is a mobile application, which focus on selling the fresh products direct via farm to the customers. This project is focus on to solve the problem of the small town where farmer sells their product to the people daily in the roadside or in weekly mandi. This application allow the farmer to upload the pictures, cost and what quantity they currently have and customer can purchase the product.
+Technology-Flutter, Dart, Firebase.
