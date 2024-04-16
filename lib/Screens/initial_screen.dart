@@ -65,7 +65,7 @@ class InitialScreen extends StatelessWidget {
               style: Theme.of(context).textTheme.titleLarge,
             ),
           ),
-          // const SizedBox(height: 10,),
+          // const SizedBox(height: 10,)
           MaterialButton(
             onPressed: () {
               Navigator.pushReplacement(

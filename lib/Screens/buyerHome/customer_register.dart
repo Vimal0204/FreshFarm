@@ -62,7 +62,7 @@ class RegisterCustomer extends StatelessWidget {
       );
       Navigator.of(context).pop('success');
     }
-
+//hkjhk
     return Scaffold(
       appBar: AppBar(
         title: const Text('Update Details'),

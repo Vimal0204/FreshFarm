@@ -15,7 +15,6 @@ class SellerAuthScreen extends StatefulWidget {
   @override
   State<SellerAuthScreen> createState() => _SellerAuthScreenState();
 }
-
 class _SellerAuthScreenState extends State<SellerAuthScreen> {
   bool signIn = false;
   Seller seller = Seller(

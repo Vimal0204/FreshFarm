@@ -153,7 +153,7 @@ class _PaymentCheckoutScreenState extends ConsumerState<PaymentCheckoutScreen> {
     for (var element in widget.cartItems) {
       // print(element);
       // write logic for getting product id.
-
+//
       // write logic for getting farmer id.
       // write logic to place order.
       final purl = Uri.https(

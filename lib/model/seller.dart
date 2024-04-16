@@ -8,7 +8,7 @@ class Seller {
   final String city;
   final String state;
   final int pincode;
-
+//
   Seller({
     required this.email,
     required this.firstName,

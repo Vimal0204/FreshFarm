@@ -65,7 +65,7 @@ class _ProductCard extends ConsumerState<ProductCard> {
                           color: Theme.of(context).colorScheme.primary,
                         ),
                   ),
-                  // const SizedBox(height: 5),
+                  // const SizedBox(height: 6),
                   Text(
                     '₹ ${widget.productCost.toStringAsFixed(2)}',
                     style: const TextStyle(

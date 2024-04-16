@@ -5,7 +5,7 @@ class Customer {
   final String city;
   final String state;
   final int pincode;
-
+//
   Customer({
     required this.id,
     required this.mobile,

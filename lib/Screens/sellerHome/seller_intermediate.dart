@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:freshfarm/Screens/initial_screen.dart';
-
+//
 class IntermediateScreen extends StatefulWidget{
   const IntermediateScreen({super.key,required this.uid,required this.username,required this.status,required this.message});
   final dynamic uid;

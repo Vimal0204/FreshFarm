@@ -3,7 +3,7 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
-
+//
 class ImageInput1 extends StatefulWidget{
   const ImageInput1({super.key,required this.onPickImage});
   final void Function(File image) onPickImage;

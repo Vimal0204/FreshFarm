@@ -207,7 +207,7 @@ class _SellerProfileState extends State<CustomerProfile> {
         ),
       ),
     );
-
+//
     return Scaffold(
       appBar: AppBar(
         title: const Text('Profile'),

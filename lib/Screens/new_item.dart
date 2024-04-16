@@ -44,7 +44,7 @@ class _NewItemState extends State<NewItem> {
         quantity: _quantity,
         price: _price);
     widget.addProduct(product);
-    // print(imageUrl);
+    // print(imgeUrl);
     if (!context.mounted) {
       return;
     }

@@ -34,7 +34,7 @@ class ProductWidget extends StatelessWidget {
     final TextEditingController _quantityController =
         TextEditingController(text: product.quantity.toString());
     return Card(
-      margin: EdgeInsets.all(8.0),
+      margin:const EdgeInsets.all(8.0),
       child: Padding(
         padding: EdgeInsets.all(16.0),
         child: Column(

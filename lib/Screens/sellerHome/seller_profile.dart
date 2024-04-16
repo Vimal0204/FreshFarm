@@ -4,7 +4,7 @@ import 'package:freshfarm/model/seller.dart';
 
 class SellerProfile extends StatefulWidget {
   const SellerProfile({super.key,required this.seller});
-  // final String uid;
+  // final String uid; not required
 final Seller seller;
   @override
   State<StatefulWidget> createState() {

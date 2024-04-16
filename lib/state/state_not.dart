@@ -27,7 +27,7 @@ class ProductState {
 class CartController extends StateNotifier<List<ProductState>> {
   CartController() : super([]);
 
-  //load cart from database for the first time.
+  //load cart from database for the first time. ok
   void loadCartData(Customer customer) async {
     final url = Uri.https(
       'freshfarm.azurewebsites.net',

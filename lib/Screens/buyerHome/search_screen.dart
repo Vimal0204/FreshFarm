@@ -1,5 +1,4 @@
 import 'dart:convert';
-
 import 'package:flutter/material.dart';
 import 'package:freshfarm/model/customer.dart';
 import 'package:freshfarm/model/product_model_seller.dart';

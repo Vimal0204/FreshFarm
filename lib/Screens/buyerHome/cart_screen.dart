@@ -43,7 +43,7 @@ class _CartScreenState extends ConsumerState<CartScreen> {
               cartItems.map((e) {
                 totalAmount = totalAmount + e.cost;
               });
-              print(totalAmount);
+              // print(totalAmount);
               Navigator.of(context).push(
                 MaterialPageRoute(
                   builder: (ctx) => PaymentCheckoutScreen(

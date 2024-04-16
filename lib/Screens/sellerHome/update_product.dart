@@ -31,7 +31,6 @@ class _UpdateProductWidgetState extends State<UpdateProductWidget> {
     _priceController = TextEditingController(text: widget.currentPrice.toString());
     _quantityController = TextEditingController(text: widget.currentQuantity.toString());
   }
-
   @override
   void dispose() {
     _priceController.dispose();

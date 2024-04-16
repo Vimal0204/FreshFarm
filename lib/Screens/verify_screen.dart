@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'dart:math';
-
 class VerifyScreen extends StatefulWidget {
   const VerifyScreen({super.key});
   
