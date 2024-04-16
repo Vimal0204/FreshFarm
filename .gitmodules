@@ -1,0 +1,3 @@
+[submodule "freshfarmbackend"]
+	path = freshfarmbackend
+	url = https://github.com/Vimal0204/freshfarmbackend.git
