@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "271058031443",
+    "project_id": "capstonefreshfarm",
+    "storage_bucket": "capstonefreshfarm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271058031443:android:94dca66b5a4a6fa06647a6",
+        "android_client_info": {
+          "package_name": "com.example.freshfarm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1nP1O3dN_b2B8IsKs_Jjcbeb_PcGbZn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
